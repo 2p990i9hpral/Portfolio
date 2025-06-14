@@ -18,7 +18,7 @@
 
 ## Projects
 
-### [Analysis of Blood Supply & Demand Dynamics](https://github.com/2p990i9hpral/Factors_Dominating_Blood_Supply_Dynamics)
+### [Analysis of Blood Supply & Demand Dynamics](https://github.com/2p990i9hpral/Factors_Dominating_Blood_Supply_Dynamics/blob/master/README-EN.md)
 - Modeled blood supply and demand during crisis situations using time-series analysis.
 - Quantitatively measured the effectiveness of promotional campaigns based on blood donor characteristics.
 - Visualized analysis results and proposed strategies for more efficient promotional activities.
