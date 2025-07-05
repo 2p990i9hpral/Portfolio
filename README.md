@@ -23,6 +23,11 @@
 - 헌혈 참여자 특성에 따른 프로모션의 정량적 효과 측정.
 - 분석 결과 시각화, 효율적인 프로모션 수행 방안 제시.
 
+### [LLM 기반 AI 에이전트 개발](https://github.com/2p990i9hpral/Portfolio/blob/main/projects/llm_powered_ai_agent.md)
+- 자연어 이해, 추론 및 응답 생성을 위해 OpenAI 호환 LLM API 활용.
+- LLM이 사용자 요청에 필요한 외부 API를 호출하는 동적 함수 호출 아키텍처 구현.
+- 로컬 데이터베이스를 사용하여 대화 기록, 사용자 통계, 내부 로깅, LLM 토큰/비용 추적, 관리.
+
 ### [NLP 기반 언어 학습 데이터 분석 및 시각화, 개인화된 학습 추천](https://forum.lingq.com/t/lingq-data-analysis-visualizing-patterns-in-my-known-words/1410961?u=vet8t6z79pc4)
 - NLP 기법을 통해 대규모 개인 언어 학습 데이터 전처리, 품사 빈도 분석.
 - 데이터를 기반으로 학습 패턴 통계 도출, 미지 단어 식별을 통한 학습 우선순위 도출.

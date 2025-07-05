@@ -23,6 +23,11 @@
 - Quantitatively measured the effectiveness of promotional campaigns based on blood donor characteristics.
 - Visualized analysis results and proposed strategies for more efficient promotional activities.
 
+### [Development of LLM-Powered AI Agent](https://github.com/2p990i9hpral/Portfolio/blob/main/projects/llm_powered_ai_agent-EN.md)
+- Utilized OpenAI-compatible LLM API for natural language understanding, reasoning, and response generation.
+- Implemented a dynamic function-calling architecture where the LLM determines which external API to call based on user queries.
+- Employed a local database to manage conversation history, user statistics, internal logging, and detailed LLM token/cost tracking.
+
 ### [NLP-driven Language Learning: Data Analysis, Visualization, & Personalized Recommendations](https://forum.lingq.com/t/lingq-data-analysis-visualizing-patterns-in-my-known-words/1410961?u=vet8t6z79pc4)
 - Preprocessed large-scale personal language learning data and performed Part-of-Speech (POS) frequency analysis using NLP techniques.
 - Derived statistical insights into learning patterns and identified unknown vocabulary to prioritize learning efforts.
