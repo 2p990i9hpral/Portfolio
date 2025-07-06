@@ -8,6 +8,11 @@
 - Implemented key CNN/LLM research papers using [Pytorch](https://github.com/2p990i9hpral/pytorch_paper_implementation).
 - Designed databases and processed data efficiently using SQL.
 
+### LLM Engineering
+- Proficient at writing a cost/performance-effective system prompt. 
+- Developed services by utilizing APIs from various LLM Providers.
+- Implemented a dynamic function-calling architecture for an AI agent.
+
 ### Programming, Data Collection, & ML Model Deployment
 - Built and deployed machine learning API servers on AWS.
 - Collected and preprocessed structured/unstructured web data using Python and Selenium.
@@ -26,7 +31,7 @@
 ### [Development of LLM-Powered AI Agent](https://github.com/2p990i9hpral/Portfolio/blob/main/projects/llm_powered_ai_agent-EN.md)
 - Utilized OpenAI-compatible LLM API for natural language understanding, reasoning, and response generation.
 - Implemented a dynamic function-calling architecture where the LLM determines which external API to call based on user queries.
-- Employed a local database to manage conversation history, user statistics, internal logging, and detailed LLM token/cost tracking.
+- Constructed a local database to manage conversation history, user statistics, internal logging, and detailed LLM token/cost tracking.
 
 ### [NLP-driven Language Learning: Data Analysis, Visualization, & Personalized Recommendations](https://forum.lingq.com/t/lingq-data-analysis-visualizing-patterns-in-my-known-words/1410961?u=vet8t6z79pc4)
 - Preprocessed large-scale personal language learning data and performed Part-of-Speech (POS) frequency analysis using NLP techniques.

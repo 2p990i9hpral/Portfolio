@@ -8,6 +8,11 @@
 - 주요 CNN/LLM 논문들 [Pytorch 코드 구현](https://github.com/2p990i9hpral/pytorch_paper_implementation) 경험.
 - DB 설계, SQL을 통한 데이터 처리 경험.
 
+### LLM 엔지니어링
+- 비용/성능 효율적 시스템 프롬프트 작성 경험.
+- 다양한 LLM 제공업체의 API를 활용한 서비스 개발 경험.
+- AI 에이전트를 위한 동적 함수 호출 아키텍처 구현 경험.
+
 ### 프로그래밍, 데이터 수집, ML 모델 배포
 - AWS상 머신러닝 API 서버 구축 경험.
 - Python, Selenium을 통해 웹상 정형/비정형 데이터 수집, 정제 경험.

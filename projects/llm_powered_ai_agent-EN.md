@@ -9,7 +9,7 @@ Developed a multi-functional AI agent that runs on the messenger KakaoTalk, leve
 - Core Engine: Utilizes OpenAI-compatible LLM API for natural language understanding, reasoning, and response generation.
 - Agentic Behavior: Implements a dynamic function-calling architecture where the LLM determines which external API to call based on user queries.
 - Diverse Integrations: Connects to APIs for real-time data, including financial markets (crypto/stocks), news headlines, web search, weather, and more.
-- Data Persistence: Employs a local database to manage conversation history, user statistics, internal logging, and detailed LLM token/cost tracking.
+- Data Persistence: Constructs a local database to manage conversation history, user statistics, internal logging, and detailed LLM token/cost tracking.
 
 # Project
 
