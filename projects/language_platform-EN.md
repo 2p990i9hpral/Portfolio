@@ -44,7 +44,7 @@ Adopted the single-pass approach. Pre-generated the word list for each unit at t
 ### API and Asynchronous Job Handling
 
 - Defined requirements for an input-hash-based lookup API: the same input returns the stored result. Integrated generation as an asynchronous job with a status-check (polling) API.
-- Designed the polling interval around the response-time distribution: wait for mean − 2σ, then start at 5 s and grow 1.3× per step, capped at mean + 2σ, with a 20-minute timeout. Replaced a fixed 15 s interval.
+- Designed the polling interval around the response-time distribution of the asynchronous LLM jobs, replacing a fixed interval.
 
 ---
 
@@ -59,7 +59,7 @@ A Chrome extension that normalizes content from 8 sources, including YouTube, po
 - Unified user-provided, auto-generated, and translated subtitles into a common data format.
 - Used an LLM to restore sentence boundaries in auto-generated subtitles that lack punctuation, minimizing false positives so the original words and timestamps stay unchanged.
 - Built prompts dynamically from a per-language map of sentence-ending punctuation. Skipped the LLM call for subtitles that already have punctuation.
-- Modularized 7 STT providers (Deepgram, Fireworks, Groq, DeepInfra, AssemblyAI, Lemonfox, Gladia) behind a single interface. Compared their quality on the same Korean audio and provided a selection UI to choose by cost and quality.
+- Modularized 7 STT providers behind a single interface. Compared their quality on the same Korean audio and provided a selection UI to choose by cost and quality.
 
 <p align="center">
 <img src="images/language_platform_pl_chunking-option.png" width="300">
