@@ -33,10 +33,10 @@
 - 학습 레슨과 복습 레슨으로 구성된 Unit 구조 설계.
 
 <p align="center">
-<img src="images/language_platform_lm_track_problem-1.png" width="250">
-<img src="images/language_platform_lm_track_problem-2.png" width="250">
-<img src="images/language_platform_lm_track_problem-4.png" width="250">
-<img src="images/language_platform_lm_track_problem-5.png" width="250">
+<img src="images/language_platform_lm_track_problem-1.png" width="220">
+<img src="images/language_platform_lm_track_problem-2.png" width="220">
+<img src="images/language_platform_lm_track_problem-4.png" width="220">
+<img src="images/language_platform_lm_track_problem-5.png" width="220">
 </p>
 
 - 문제 유형 선택, 번역 표시, 음역, TTS 음성 선택 설정, 모바일 반응형 레이아웃 구현.

@@ -33,10 +33,10 @@ Adopted the single-pass approach. Pre-generated the word list for each unit at t
 - Designed the unit structure, composed of learning lessons and review lessons.
 
 <p align="center">
-<img src="images/language_platform_lm_track_problem-1.png" width="250">
-<img src="images/language_platform_lm_track_problem-2.png" width="250">
-<img src="images/language_platform_lm_track_problem-4.png" width="250">
-<img src="images/language_platform_lm_track_problem-5.png" width="250">
+<img src="images/language_platform_lm_track_problem-1.png" width="220">
+<img src="images/language_platform_lm_track_problem-2.png" width="220">
+<img src="images/language_platform_lm_track_problem-4.png" width="220">
+<img src="images/language_platform_lm_track_problem-5.png" width="220">
 </p>
 
 - Implemented settings for problem type selection, translation display, transliteration, and TTS voice selection, along with a mobile-responsive layout.
